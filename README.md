@@ -6,6 +6,11 @@ The example projects rotate out occasionally, so they are stashed here for poste
 
 [![](./v72/v72.jpg)](./v72/)
 
+
+## v66
+
+[![](./v66/v66.jpg)](./v66/)
+
 ## Resources
 
 Learn more stuff by watching my [Spark AR Tutorials on YouTube!](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-)
