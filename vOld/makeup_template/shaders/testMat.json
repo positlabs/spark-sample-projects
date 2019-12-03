@@ -1,0 +1,145 @@
+{
+  "textures" : [
+    {
+      "uFaceTracker0" : {
+        "displayName" : "FaceTracker0"
+      }
+    },
+    {
+      "uMakeupColorReplaceMask" : {
+        "displayName" : "Mask: R=Color1, G=Color2, B=Color3"
+      }
+    },
+    {
+      "uMakeupMaterial" : {
+        "displayName" : "Material: R=SpecArea, G=SpecPower1, B=SpecPower2"
+      }
+    },
+    {
+      "uMakeupAmbientOcclusion" : {
+        "displayName" : "Ambient Occlusion"
+      }
+    },
+    {
+      "uEnvironmentReflection" : {
+        "displayName" : "Environment Reflection"
+      }
+    }
+  ],
+  "parameters" : [
+    {
+      "uMakeupAlpha" : {
+        "min" : 0,
+        "displayName" : "Alpha",
+        "value" : 0.85,
+        "type" : "float",
+        "max" : 1
+      }
+    },
+    {
+      "uDummyMode0" : {
+        "displayName" : "LIPS",
+        "type" : "label",
+      }
+    },
+    {
+      "uMakeupConstantColor1" : {
+        "displayName" : "    Color",
+        "values" : [0.8, 0.0, 0.0, 1.0],
+        "type" : "color",
+      }
+    },
+    {
+      "uDummyMode1" : {
+        "displayName" : "EYELINER",
+        "type" : "label",
+      }
+    },
+    {
+      "uMakeupConstantColor2" : {
+        "displayName" : "    Color",
+        "values" : [0.0, 0.0, 0.0, 1.0],
+        "type" : "color",
+      }
+    },
+    {
+      "uDummyMode2" : {
+        "displayName" : "EYESHADOW",
+        "type" : "label",
+      }
+    },
+    {
+      "uMakeupConstantColor3" : {
+        "displayName" : "    Color",
+        "values" : [0.0, 0.0, 0.8, 1.0],
+        "type" : "color",
+      }
+    },
+    {
+      "uDummyMode3" : {
+        "displayName" : "ADJUSTMENTS",
+        "type" : "label",
+      }
+    },
+    {
+      "uMakeupLightness" : {
+        "min" : -1.0,
+        "displayName" : "    Lightness",
+        "value" : 0.0,
+        "type" : "float",
+        "max" : 1.0
+      }
+    },
+    {
+      "uMakeupSaturation" : {
+        "min" : -1.0,
+        "displayName" : "    Saturation",
+        "value" : 0.0,
+        "type" : "float",
+        "max" : 1.0
+      }
+    },
+    {
+      "uMakeupReflectiveness" : {
+        "min" : 0,
+        "displayName" : "    Reflectivity",
+        "value" : 0.6,
+        "type" : "float",
+        "max" : 2.0
+      }
+    },
+    {
+      "uDummyMode4" : {
+        "displayName" : "REAL-WORLD LIGHTING",
+        "type" : "label",
+      }
+    },
+    {
+      "uLightSensitive" : {
+        "min" : 0.0,
+        "displayName" : "    Sensitivity",
+        "value" : 0.5,
+        "type" : "float",
+        "max" : 1.0
+      }
+    },
+    {
+      "uGlossThreshold" : {
+        "min" : 0.1,
+        "displayName" : "    Specular Threshold",
+        "value" : 0.3,
+        "type" : "float",
+        "max" : 0.99
+      }
+    },
+    {
+      "uGlossMultipler" : {
+        "min" : 0.0,
+        "displayName" : "    Specular Intensity",
+        "value" : 0.3,
+        "type" : "float",
+        "max" : 1.0
+      }
+    }
+  ]
+}

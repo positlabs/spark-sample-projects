@@ -11,6 +11,12 @@ The example projects rotate out occasionally, so they are stashed here for poste
 
 [![](./v66/v66.jpg)](./v66/)
 
+## vOld
+
+[Very old samples](./vOld)
+
+Old examples from various versions of Spark. May not work in the latest version.
+
 ## Resources
 
 Learn more stuff by watching my [Spark AR Tutorials on YouTube!](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-)
